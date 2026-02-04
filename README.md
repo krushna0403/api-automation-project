@@ -17,6 +17,7 @@ HTML test reports using pytest-html.
 Centralized logging with utils/logger.py.
 
 📂 Project Structure
+'''text
 api-automation-project/
 │
 ├── app.py                   # FastAPI application
